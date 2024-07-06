@@ -1,8 +1,7 @@
-# Tutor-Compass-SIH
+# Tutor-Compass
 
 View website:http://localhost:4000/
 
-Certainly! Here's a description for your GitHub repository:
 
 ---
 
