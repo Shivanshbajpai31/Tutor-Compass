@@ -1,0 +1,144 @@
+.SignIn{
+    /* padding: 20px; */
+    width: 100vw;
+    height: 57vh;
+    background-color: #0E538C; 
+    color: white;
+    display: flex;
+}
+.text{
+    padding-left: 40px;
+}
+.text1{
+    margin: 0;
+    padding: 0;
+font-size: 24px;
+font-weight: 600;
+text-align: left;
+}
+.text2{
+    margin:0;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+
+}
+.text3{
+    width: 235px;
+    font-size: 12px;
+    font-weight: 100;
+}
+.seq2{
+    margin-left: 135px;
+    margin-top: 0px;
+}
+.seq3{
+    width: 275px;
+    height: 400px;
+    background-color: white;
+    color: black;
+    padding: 30px;
+    border-radius: 25px;
+    margin-left: 135px;
+    margin-top: 50px;
+    /* border: 1px solid black; */
+    box-shadow: inset 0 0 2px #311b0b;
+}
+.seq31{
+    display: flex;
+    margin-bottom: 0;
+    padding: 0;
+    height: 25px;
+}
+.google{
+    background-color:"#E9F1FF";
+    width: 150px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px 10px 0px 15px ;
+    border-radius: 5px;
+    display: flex;
+}
+.google > p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.google:hover{
+    cursor: pointer;
+}
+.social{
+    display: flex;
+    height: 35px;
+}
+.socials > div{
+    margin: 0;
+    padding: 0;
+}
+.fb{
+    padding-left: 10px;
+}
+.apple{
+    padding-left: 10px;
+}
+.credentials >form> input{
+    margin: 0;
+    padding: 10px;
+    width: 250px;
+    border-radius: 8px;
+    border: 1px solid #ADADAD;
+    font-size: 10px;
+    font-weight: 100;
+}
+.credentials > form > p{
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom:10px ;
+    font-size: 11px;
+}
+/* .email{
+    border: 1px solid #4285F4;
+
+} */
+.buttonSignIn{
+    background-color:#0E538C;
+    width:280px;
+    color:white;
+    font-size:12px;
+}
+@media screen and (max-width: 414px){
+    .SignIn{
+        width: 100vw;
+        height: 70vh;
+        display:block;
+    }
+    .seq3{
+        width: 240px;
+        height: 380px;
+
+    }
+    .seq31{
+        height: 16px;
+    }
+    .google{
+        width: 100px;
+        height: 40px;
+    }
+    .seq2>img{
+        width: 250px;
+        height: 250px;
+    }
+    .credentials >form> input{
+        width: 225px;
+    }
+    .buttonSignIn{
+        width: 240px;
+
+    }
+    .text4{
+        padding-top: 20px;
+    }
+    .empty{
+        width: 100px;
+        height: 100px;
+    }
+}

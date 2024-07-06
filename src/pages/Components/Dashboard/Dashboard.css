@@ -1,0 +1,12 @@
+.subHead{
+    font-weight: 600;
+    padding-left: 30px;
+    font-size: 18px;
+    display: flex;
+}
+.subCore{
+    display: flex;
+}
+.subElec{
+    margin-bottom: 50px;
+}

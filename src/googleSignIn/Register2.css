@@ -1,0 +1,29 @@
+.year1{
+    display: flex;
+}
+.year2{
+    display: flex;
+    margin-bottom: 20px;
+}
+.year{
+    width:200px;
+    color:#808080;
+    font-size:12px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #4285F4;
+    text-align: center;
+    border-radius: 8px;
+}
+.year:hover{
+    border: 1px solid black;
+}
+.name{
+    border: 1px solid #4285F4;
+}
+.year3:hover{
+    border: 2px solid black;
+}
+.year3{
+        border: 2px solid black;
+}

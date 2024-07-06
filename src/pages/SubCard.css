@@ -1,0 +1,23 @@
+.subcard{
+    width: 150px;
+    height: 185px;
+    border: 1px solid #00000038;
+    margin-left: 50px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 8px;
+}
+.subDetails{
+    display: flex;
+    font-size: 10px;
+    font-weight: 500;
+    justify-content: space-between;
+    padding-right: 5px;
+    padding-left: 5px;
+    color:#000000A1;
+}
+.subTitle{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
