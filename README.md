@@ -26,7 +26,7 @@ To get started with Tutor Compass, follow these steps:
 
 1: Clone the repository:
 
-git clone https://github.com/your-username/tutor-compass.git
+
 cd tutor-compass
 
 2: Install dependencies:
@@ -49,6 +49,8 @@ npm start
 
 npm run build
 
+
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
