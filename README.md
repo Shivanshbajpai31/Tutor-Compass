@@ -53,6 +53,10 @@ To get started with Tutor Compass, follow these steps:
    npm run build
    ```
 
+6. **Access the Application:**
+   - Open your web browser and navigate to `http://localhost:3000` to start using Gossip Gate.
+
+
 
 ## License
 
